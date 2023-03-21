@@ -1,0 +1,1 @@
+/Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/target/bpfel-unknown-unknown/release/libsolanapdas.rlib: /Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/programs/solanapdas/src/lib.rs

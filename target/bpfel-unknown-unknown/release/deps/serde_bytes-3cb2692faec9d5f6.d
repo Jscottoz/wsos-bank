@@ -1,0 +1,11 @@
+/Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/target/bpfel-unknown-unknown/release/deps/serde_bytes-3cb2692faec9d5f6.rmeta: /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/lib.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytes.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/de.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/ser.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytebuf.rs
+
+/Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/target/bpfel-unknown-unknown/release/deps/libserde_bytes-3cb2692faec9d5f6.rlib: /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/lib.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytes.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/de.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/ser.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytebuf.rs
+
+/Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/target/bpfel-unknown-unknown/release/deps/serde_bytes-3cb2692faec9d5f6.d: /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/lib.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytes.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/de.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/ser.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytebuf.rs
+
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/lib.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytes.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/de.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/ser.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.9/src/bytebuf.rs:

@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::solana_program::entrypoint::ProgramResult;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("C2KHyE7mfQJEJkKC5kB3Giix1DiHtinPZnGVwvkQ8QpW");
 
 #[program]
 pub mod solanapdas {
@@ -44,6 +44,7 @@ pub mod solanapdas {
         }
         **bank.to_account_info().try_borrow_mut_lamports()? -= amount;
         **user.to_account_info().try_borrow_mut_lamports()? += amount;
+        (&mut ctx.accounts.bank).balance -= amount;
         Ok(())
     }
 }

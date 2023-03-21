@@ -1,0 +1,12 @@
+/Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/target/bpfel-unknown-unknown/release/deps/blake3-9eb46be05cb29123.rmeta: /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs
+
+/Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/target/bpfel-unknown-unknown/release/deps/libblake3-9eb46be05cb29123.rlib: /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs
+
+/Users/jscott/Documents/Projects/wsos/Lecture5/wsos-bank/target/bpfel-unknown-unknown/release/deps/blake3-9eb46be05cb29123.d: /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs /Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs
+
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/lib.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/guts.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/platform.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/portable.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/traits.rs:
+/Users/jscott/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.3.3/src/join.rs:
